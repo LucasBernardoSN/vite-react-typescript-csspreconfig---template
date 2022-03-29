@@ -1,4 +1,5 @@
-# Template Vite React-ts [ CSS preconfigured ]
+# Template 
+## [React-ts] [Vite] [CSS preconfigured]
 
 <img src="/public/example.png" alt="example">
 
