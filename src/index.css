@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;0,700;1,300&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0.5rem;
+}
+
+html,
+body {
+    margin: 0;
+    background-color: #151718;
+    color: #ecedee;
+    font-family: 'Roboto', sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #697177e3;
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #787f85e3;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, monospace;
+}
+
+/* ================== Text ================== */
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1rem;
+    color: #63c174;
+}
+
+h5 {
+    font-size: 1rem;
+    color: #f16a50;
+}
+
+h6 {
+    font-size: 1rem;
+    color: #52a9ff;
+}
+
+span {
+    color: #ffffff;
+    font-size: 0.8rem;
+}
+
+/* ================== Text ================== */
+
+/* ================== Elements ==================*/
+
+div {
+    background-color: #1a1d1e;
+    padding: 0.5rem;
+    margin: 1rem 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+aside {
+    background-color: #202425;
+    padding: 1rem;
+    margin: 1rem 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+section {
+    background-color: #26292b;
+    padding: 2rem;
+    margin: 1rem 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+article {
+    background-color: #3a3f42;
+    padding: 2rem;
+    margin: 1rem 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+img {
+    width: auto;
+    height: 30vh;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 5px 1px #00000045;
+}
+
+/* ================== Elements ==================*/
+
+/* ================== Elements ==================*/
+
+button {
+    border-radius: 2rem;
+    padding: 0.6rem 1.2rem 0.6rem 1.2rem;
+    font-size: 1rem;
+
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+
+    color: #eaf6ff;
+    background-color: #697177;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+button:hover {
+    background-color: #787f85;
+}
+
+input {
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1rem;
+    width: 50%;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    background-color: #eaf6ff;
+    box-shadow: 1px 1px 5px 1px #00000045;
+}
+
+/* ================== Elements ==================*/
