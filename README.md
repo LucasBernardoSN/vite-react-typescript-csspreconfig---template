@@ -1,5 +1,5 @@
 # Template 
-## [React-ts] [Vite] [CSS preconfigured]
+## [Vite] [React-typescript] [CSS preconfigured]
 
 <img src="/public/example.png" alt="example">
 
