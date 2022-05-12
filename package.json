@@ -1,9 +1,9 @@
 {
-    "name": "react-vite-typescript-css-template",
+    "name": "vite-react-typescript-preconfigcss-template",
     "private": true,
     "version": "0.0.0",
     "scripts": {
-        "dev": "vite",
+        "dev": "vite --host --port 3000",
         "build": "tsc && vite build",
         "preview": "vite preview"
     },

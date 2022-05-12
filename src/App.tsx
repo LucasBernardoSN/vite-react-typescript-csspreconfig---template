@@ -13,11 +13,12 @@ function App() {
             <div>
                 <button>BUTTON</button>
                 <input type="text" />
+                <div>DIV</div>
                 <aside>ASIDE</aside>
                 <section>SECTION</section>
                 <article>ARTICLE</article>
                 <div>
-                    <h3>img</h3>
+                    IMG
                     <img
                         src="https://images.unsplash.com/photo-1551009175-15bdf9dcb580?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80"
                         alt="img"
